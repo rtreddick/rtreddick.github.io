@@ -1,3 +1,3 @@
 # Hello World
 
-https://<user>.github.io/<repository>/about/contact-us.html
+https://rtreddick.github.io/classes
