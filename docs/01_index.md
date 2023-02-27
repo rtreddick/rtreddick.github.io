@@ -6,6 +6,8 @@ description: "I'm working my way through this 19-hour mega tutorial on building 
 permalink: /
 ---
 
+![](./assets/images/tim-reddick-logo.png)
+
 # Build a social media API using FastAPI
 {: .fs-9}
 
@@ -17,7 +19,7 @@ I took this course to learn about building APIs, to practice Python development,
 {: .important }
 This site is a work-in-progress. There is still more I'd like to document and formatting I'd like to clean up. I'm using this course and this website as an opportunity to learn about creating project documentation and deploying websites to GitHub pages. See [Building the Docs](./building_to_docs.html).
 
-![](./assets/images/swagger-docs.png)
+
 
 {: .note }
 The API is not currently deployed publicly, so you have to run it locally to see the interactive Swagger docs. The screenshot above shows all the endpoints in the API. See [Run the API Locally](./run_the_api) to run on your local machine and see the live docs.
