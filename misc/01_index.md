@@ -1,6 +1,6 @@
 ---
 layout: home
-title: FastAPI Tutorial
+title: About Me
 nav_order: 1
 description: "I'm working my way through this 19-hour mega tutorial on building an API"
 permalink: /
@@ -11,7 +11,7 @@ permalink: /
 # Build a social media API using FastAPI
 {: .fs-9}
 
-I took this course to learn about building APIs, to practice Python development, and to learn about deploying applications.
+I transform data science research into production Spark jobs. My professional interests include ML, streaming, and statistics. Currently, I'm figuring out how to build this website!
 {: .fs-6 .fw-300 }
 
 ---

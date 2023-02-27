@@ -4,8 +4,8 @@ theme: just-the-docs
 url: https://rtreddick.github.io/
 
 aux_links:
-  repo: https://github.com/rtreddick/
-  timreddick.me: https://rtreddick.github.io
+  timreddick.me repo: https://rtreddick.github.io
+  timreddick on GitHub: https://github.com/rtreddick/
 
 aux_links_new_tab: false
 
