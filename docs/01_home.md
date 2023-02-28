@@ -13,7 +13,7 @@ permalink: /
 {: .highlight-title }
 > Work in progress
 >
-> Welcome to my personal site! This is one of my first attempts at building and deploying a website using Jekyll and GitHub pages. I'm still gathering and building up the content to make this site feel complete, but I decided it is much better to make it live now and show the progress than to wait for the perfect moment to deploy. Thanks for visiting!
+> Welcome! This is one of my first attempts at building and deploying a website using Jekyll and GitHub pages. I'm still gathering and building up the content to make this site feel complete, but I'd thought I'd publish now and share my progress. No time like the present! The [git repo](https://github.com/rtreddick/rtreddick.github.io) for this site is public, so take a look if you're interested. Thanks for visiting!
 
 ---
 
