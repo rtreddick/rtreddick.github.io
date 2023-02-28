@@ -9,7 +9,7 @@ permalink: /education
 # Education
 {: .fs-9}
 
-I learn every day through articles, books, podcasts, and MOOCs. Here I highlight some of the courses I've taken and other valuable things I've learned!
+I learn every day through articles, books, podcasts, and MOOCs. Here I highlight some of the courses I've taken and some of the valuable things I've learned!
 {: .fs-6 .fw-300 }
 
 ---
