@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Education
-nav_order: 3
+nav_order: 4
 description: "An overview of my education and some classes I've taken"
 permalink: /education
 ---

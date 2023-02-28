@@ -1,9 +1,9 @@
 ---
 layout: default
 title: What I'm Working On
-nav_order: 2
+nav_order: 3
 description: "A selection of work I've done or am currently doing"
-permalink: /work
+permalink: /what_im_working_on
 ---
 
 # What I'm Working On
