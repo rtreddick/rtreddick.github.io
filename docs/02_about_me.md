@@ -14,5 +14,7 @@ I transform data science research into production Spark jobs. My professional in
 
 ---
 
-{: .note }
-More content coming soon!
+{: .note-title }
+> More content coming soon!
+>
+> Looking forward to sharing more about myself.
