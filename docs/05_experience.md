@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Experience
-nav_order: 4
+nav_order: 5
 description: "An overiew of some of my work experience"
 permalink: /experience
 ---
