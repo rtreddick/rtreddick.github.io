@@ -18,3 +18,5 @@ I've taken an interesting path to get here! This is a place to showcase some of 
 > More content coming soon!
 >
 > I need to create one or more Jekyll document collections and use Liquid templating to fill this with content. I can use the patterns I learned from the [Jekyll tutorial](https://jekyllrb.com/docs/collections/).
+
+Until I create some more detailed content here, please visit my [LinkedIn profile](https://www.linkedin.com/).

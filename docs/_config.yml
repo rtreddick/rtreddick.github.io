@@ -2,42 +2,52 @@ title: timreddick.me
 description: Tim Reddick personal website
 theme: just-the-docs
 url: https://rtreddick.github.io/
-
 logo: "/assets/images/thumbnail-logo.png"
 
+
+# Collections
+collections_dir: collections
+collections:
+  education:
+    output: true
+  experience:
+    output: true
+  work:
+    output: true
+
+excerpt_separator: <!--more-->
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+  - scope:
+      work: ""
+      type: "work"
+    values:
+      layout: "work"
+
+
+# Links in top menu
 aux_links:
   contact: /contact.html
-  blog: /#blog
   resume: https://timreddick.me/resume 
   repo: https://github.com/rtreddick/rtreddick.github.io
-
 aux_links_new_tab: false
 
+
+# External links in side bar, appear below pages in side bar
 # nav_sort: case_sensitive
 nav_external_links:
   - title: GitHub
     url: https://www.github.com/rtreddick
 
-# Footer content
-# appears at the bottom of every page's main content
 
-# FOOTER CONTENT IS DEPRECATED (https://just-the-docs.github.io/just-the-docs/docs/configuration/#footer-content)
-# NEED TO LEARN TO CUSTOMIZE FOOTER WITH _INCLUDES FILES
-
-back_to_top: true
-back_to_top_text: "Back to top"
-footer_content: "Tim Reddick | Data Engineer"
-# last_edit_timestamp: true # This doesn't seem to be working, so I just commented out
-# last_edit_time_format: "%b %e %Y at %I:%M %p"
-gh_edit_link: true
-gh_edit_link_text: "Edit this page on GitHub"
-gh_edit_repository: "https://github.com/rtreddick/rtreddick.github.io"
-gh_edit_branch: "main" # the branch that your docs is served from
-gh_edit_source: docs # the source that your files originate from
-gh_edit_view_mode: "tree" # "tree" or "edit" if you want the user to jump into the editor immediately
-
+# Color scheme and callouts
 color_scheme: nil
-
 callouts_level: quiet # or loud
 callouts:
   highlight:
@@ -54,3 +64,20 @@ callouts:
   warning:
     title: Warning
     color: red
+
+
+# Footer content
+# appears at the bottom of every page's main content
+# FOOTER CONTENT IS DEPRECATED (https://just-the-docs.github.io/just-the-docs/docs/configuration/#footer-content)
+# NEED TO LEARN TO CUSTOMIZE FOOTER WITH _INCLUDES FILES
+back_to_top: true
+back_to_top_text: "Back to top"
+footer_content: "Tim Reddick | Data Engineer"
+# last_edit_timestamp: true # This doesn't seem to be working, so I just commented out
+# last_edit_time_format: "%b %e %Y at %I:%M %p"
+gh_edit_link: true
+gh_edit_link_text: "Edit this page on GitHub"
+gh_edit_repository: "https://github.com/rtreddick/rtreddick.github.io"
+gh_edit_branch: "main" # the branch that your docs is served from
+gh_edit_source: docs # the source that your files originate from
+gh_edit_view_mode: "tree" # "tree" or "edit" if you want the user to jump into the editor immediately
