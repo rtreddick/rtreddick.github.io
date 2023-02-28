@@ -1,12 +1,10 @@
 ---
 layout: home
 title: About Me
-nav_order: 1
-description: "Tim Reddick About Me"
-permalink: /
+nav_order: 2
+description: "About Tim Reddick"
+permalink: /about_me
 ---
-
-![](./assets/images/tim-reddick-logo.png)
 
 # About Me
 {: .fs-9}
@@ -16,4 +14,5 @@ I transform data science research into production Spark jobs. My professional in
 
 ---
 
-A little more about me...
+{: .note }
+More content coming soon!
