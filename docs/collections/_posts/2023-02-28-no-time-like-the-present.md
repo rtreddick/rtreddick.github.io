@@ -1,5 +1,5 @@
 ---
-title: "No Time Like the Present (To Build Your Website with Jeckyll and GitHub Pages)"
+title: "No Time Like the Present (To Build Your Website with Jekyll and GitHub Pages)"
 ---
 
 {: .note-title }
