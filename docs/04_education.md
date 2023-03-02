@@ -19,4 +19,4 @@ I learn every day through articles, books, podcasts, and MOOCs. Here I highlight
 >
 > I need to create one or more Jekyll document collections and use Liquid templating to fill this with content. I can use the patterns I learned from the [Jekyll tutorial](https://jekyllrb.com/docs/collections/).
 
-Until I create some more detailed content here, please visit my [LinkedIn profile](https://www.linkedin.com/).
+Until I create some more detailed content here, please visit my [LinkedIn profile](https://www.linkedin.com/) or check out [what I'm working on](/what_im_working_on).
