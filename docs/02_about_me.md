@@ -9,7 +9,7 @@ permalink: /about_me
 # About Me
 {: .fs-9}
 
-I transform data science research into production Spark jobs. My professional interests include ML, streaming, and statistics. Currently, I'm figuring out how to build this website!
+I transform data science research into production Spark applications. My professional interests include ML, streaming, and statistics. Currently, I'm figuring out how to build this website!
 {: .fs-6 .fw-300 }
 
 ---
