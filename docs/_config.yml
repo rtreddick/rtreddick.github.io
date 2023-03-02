@@ -34,7 +34,7 @@ defaults:
 # Links in top menu
 aux_links:
   contact: /contact.html
-  resume: https://timreddick.me/resume 
+  LinkedIn: https://www.linkedin.com/in/rtreddick/
   repo: https://github.com/rtreddick/rtreddick.github.io
 aux_links_new_tab: false
 
