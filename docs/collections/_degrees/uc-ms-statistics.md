@@ -12,6 +12,6 @@ grad_year: 2021
 {: .highlight-title }
 > Work in progress
 >
-> I want to highlight some of the courses I took and some of the things I learned during this program. For now, I just published my transcript. You can find a few more details on my [LinkedIn profile](https://www.linkedin.com/) and my resume.
+> I want to highlight some of the courses I took and some of the things I learned during this program. For now, I just published my transcript. You can find a few more details on my [LinkedIn profile](https://www.linkedin.com/in/rtreddick/) and my resume.
 
 ---

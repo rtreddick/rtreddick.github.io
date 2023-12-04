@@ -12,6 +12,6 @@ grad_year: 2011
 {: .highlight-title }
 > Work in progress
 >
-> I'd like to find and trawl through some of my old files and highlight a few of the important things I learned during this time. I took this course of study to pursue my passion for revitalizing cities. My first co-op in the Urban Studies program led me to [Model Group](https://modelgroup.net/), which kicked off my professional career in affordable housing development.
+> I'd like to trawl through some of my old files and highlight a few of the important things I learned during this time. I took this path to pursue my passion for revitalizing cities. My first co-op in the Urban Studies program led me to [Model Group](https://modelgroup.net/), which kicked off my professional career in affordable housing development.
 
 ---

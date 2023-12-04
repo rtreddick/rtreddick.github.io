@@ -16,6 +16,8 @@ collections:
     output: true
   projects:
     output: true
+  hobbies:
+    output: true
 
 excerpt_separator: <!--more-->
 
@@ -31,6 +33,11 @@ defaults:
       type: "degrees"
     values:
       layout: "degree"
+  - scope:
+      work: ""
+      type: "hobbies"
+    values:
+      layout: "hobby"
 
 
 # Links in top menu
