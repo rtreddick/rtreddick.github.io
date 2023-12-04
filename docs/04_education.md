@@ -9,14 +9,21 @@ permalink: /education
 # Education
 {: .fs-9}
 
-I learn every day through articles, books, podcasts, and MOOCs. Here I highlight some of the courses I've taken and some of the valuable things I've learned!
+I learn every day through books, podcasts, and online courses. Here I highlight my degrees and some of my continuing education experiences.
 {: .fs-6 .fw-300 }
+
+---
+
+{% for degree in site.degrees %}
+  <h3><a href="{{ degree.url }}">{{ degree.degree }}</a></h3>
+  {{ degree.institution }}
+{% endfor %}
 
 ---
 
 {: .note-title }
 > More content coming soon!
 >
-> I need to create one or more Jekyll document collections and use Liquid templating to fill this with content. I can use the patterns I learned from the [Jekyll tutorial](https://jekyllrb.com/docs/collections/).
+> I started by just including my degrees, but I want to add some more content here. I will use Jekyll document collections and Liquid templating to fill this with content. I can use the patterns I learned from the [Jekyll tutorial](https://jekyllrb.com/docs/collections/).
 
-Until I create some more detailed content here, please visit my [LinkedIn profile](https://www.linkedin.com/) or check out [what I'm working on](/what_im_working_on).
+Please visit my [LinkedIn profile](https://www.linkedin.com/) or check out [what I'm working on](/what_im_working_on).

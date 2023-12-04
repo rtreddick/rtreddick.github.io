@@ -8,11 +8,13 @@ logo: "/assets/images/thumbnail-logo.png"
 # Collections
 collections_dir: collections
 collections:
-  education:
+  degrees:
     output: true
-  experience:
+  jobs:
     output: true
-  work:
+  learning:
+    output: true
+  projects:
     output: true
 
 excerpt_separator: <!--more-->
@@ -26,9 +28,9 @@ defaults:
       layout: "post"
   - scope:
       work: ""
-      type: "work"
+      type: "degrees"
     values:
-      layout: "work"
+      layout: "degree"
 
 
 # Links in top menu
