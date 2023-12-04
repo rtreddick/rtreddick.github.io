@@ -13,17 +13,17 @@ Here's how I've been spending my time recently. I'm working to grow as a data en
 
 ---
 
-### Data Engineering with Databricks (Databricks Academy Course)
-I recently passed the [Databrick Certified Data Engineering Associate Exam](https://www.databricks.com/learn/certification/data-engineer-associate), which this course prepared me for. The content covered Databricks tools and features, but it also more generally covers data engineering patterns using Spark.
+### LLMs: Application to Production (Databricks Academy Course)
+I'm currently working through this course. It covers the basics of language models, tokenization, and word embeddings before proceeding to labs focused on finding and leveraging open source models from Hugging Face. Finally, it covers building, fine-tuning, deploying, and monitoring LLM-based applications.
+
+### Advanced Data Engineering with Databricks (Databricks Academy Course)
+I recently earned the [Databrick Certified Data Engineering Professional](https://www.databricks.com/learn/certification/data-engineer-associate) certification. This course along with my experience building data pipelines on Databricks over the past couple years prepared me for that exam. The content covered Databricks tools and features, but it also more generally covers data engineering principles and processes.
 
 ### Optimizing Apache Spark on Databricks (Databricks Instructor-Led Training)
 I took this course in February of 2023 with about 15 other coworkers. It covered the five most common performance problems for Spark optimization: skew, spill, shuffles, storage, and serialization. I'm actively looking for opportunities to recognize and fix these problems in my work.
 
 ### Machine Learning with Python (MITx Online Graduate Course)
-I took this course in the summer of 2022. It began by covering linear classifiers and moved on to regression, neural networks, clustering, and reinforcement learning. I learned a ton and passed the course, but I would do well to revisit the second half in more detail. Here are the links to the [course on edX](https://learning.edx.org/course/course-v1:MITx+6.86x+2T2022/home) and my [repo](https://github.com/rtreddick/6.86x-ml-with-python).
-
-### Machine Learning in Production (Databricks Academy Course)
-I just started working on this course, which will prepare me for the [Databricks Certified Machine Learning Associate](https://www.databricks.com/learn/certification/machine-learning-associate) exam. I've got a Master's degree in statistics and have spent some time [studying ML](#machine-learning-with-python-mitx-online-graduate-coruse), but this course will help me be a better practitioner.
+I took this course in the summer of 2022. It began by covering linear classifiers and moved on to regression, neural networks, clustering, and reinforcement learning. Here are the links to the [course on edX](https://learning.edx.org/course/course-v1:MITx+6.86x+2T2022/home) and my [repo](https://github.com/rtreddick/6.86x-ml-with-python).
 
 ### Social Media API using FastAPI (FreeCodeCamp.org Tutorial)
 I created a [website](https://timreddick.me/fcc-fastapi) to highlight some of what I've learned from this course and to practice building a documentation site. This is a pretty comprehensive tutorial that covers setting up a PostgreSQL database, developing the API, and deploying to multiple environments. You can also visit my [GitHub repo](https://github.com/rtreddick/fcc-fastapi).

@@ -1,7 +1,8 @@
 ---
 layout: home
 title: About Me
-nav_order: 2
+# nav_order: 2
+nav_exclude: true # excluding from nav for now while I think about what I really want to say
 description: "About Tim Reddick"
 permalink: /about_me
 ---
